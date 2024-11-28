@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">HelpGym</string>
+    <string name="gcm_defaultSenderId" translatable="false">178446498792</string>
+    <string name="google_api_key" translatable="false">AIzaSyBamdEKa6P3E2IQrNI7Y1Ds7O7aUdmj1vU</string>
+    <string name="google_app_id" translatable="false">1:178446498792:android:0d25390e696e169d53c25d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBamdEKa6P3E2IQrNI7Y1Ds7O7aUdmj1vU</string>
+    <string name="google_storage_bucket" translatable="false">helpgym-master.appspot.com</string>
+    <string name="project_id" translatable="false">helpgym-master</string>
+    <style name="Base.Theme.HelpGym" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.HelpGym" parent="Base.Theme.HelpGym"/>
+</resources>

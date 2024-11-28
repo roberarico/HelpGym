@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "178446498792",
+    "project_id": "helpgym-master",
+    "storage_bucket": "helpgym-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178446498792:android:0d25390e696e169d53c25d",
+        "android_client_info": {
+          "package_name": "com.example.helpgym"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBamdEKa6P3E2IQrNI7Y1Ds7O7aUdmj1vU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

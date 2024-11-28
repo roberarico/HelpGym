@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-debug-42:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-main-44:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-debug-42:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-main-44:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-debug-42:\\drawable_user_ico.png.flat",
+        "source": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-main-44:\\drawable\\user_ico.png"
+    },
+    {
+        "merged": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-debug-42:\\layout_activity_ejercicios.xml.flat",
+        "source": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-main-44:\\layout\\activity_ejercicios.xml"
+    },
+    {
+        "merged": "com.example.helpgym.app-debug-42:/layout_activity_rutina.xml.flat",
+        "source": "com.example.helpgym.app-main-44:/layout/activity_rutina.xml"
+    },
+    {
+        "merged": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-debug-42:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-main-44:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-debug-42:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-main-44:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-debug-42:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-main-44:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-debug-42:\\layout_activity_rutina.xml.flat",
+        "source": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-main-44:\\layout\\activity_rutina.xml"
+    },
+    {
+        "merged": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-debug-42:\\layout_ejercicios_adapter.xml.flat",
+        "source": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-main-44:\\layout\\ejercicios_adapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-debug-42:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-main-44:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-debug-42:\\layout_activity_registro.xml.flat",
+        "source": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-main-44:\\layout\\activity_registro.xml"
+    },
+    {
+        "merged": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-debug-42:\\layout_activity_nueva_rutina.xml.flat",
+        "source": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-main-44:\\layout\\activity_nueva_rutina.xml"
+    },
+    {
+        "merged": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-debug-42:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-main-44:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-debug-42:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-main-44:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-debug-42:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-main-44:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-debug-42:\\layout_activity_mostrar.xml.flat",
+        "source": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-main-44:\\layout\\activity_mostrar.xml"
+    },
+    {
+        "merged": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-debug-42:\\layout_activity_welcome.xml.flat",
+        "source": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-main-44:\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-debug-42:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-main-44:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-debug-42:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-main-44:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-debug-42:\\layout_activity_inicio.xml.flat",
+        "source": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-main-44:\\layout\\activity_inicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-debug-42:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-main-44:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-debug-42:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-main-44:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-debug-42:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-main-44:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-debug-42:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-main-44:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-debug-42:\\drawable_pass_ico.png.flat",
+        "source": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-main-44:\\drawable\\pass_ico.png"
+    },
+    {
+        "merged": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-debug-42:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-main-44:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-debug-42:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-main-44:\\xml\\backup_rules.xml"
+    }
+]

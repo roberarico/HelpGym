@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.example.helpgym.app-mergeDebugResources-41:/layout/activity_rutina.xml",
+        "source": "com.example.helpgym.app-main-44:/layout/activity_rutina.xml"
+    },
+    {
+        "merged": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-mergeDebugResources-41:\\layout\\activity_rutina.xml",
+        "source": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-main-44:\\layout\\activity_rutina.xml"
+    },
+    {
+        "merged": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-mergeDebugResources-41:\\layout\\activity_inicio.xml",
+        "source": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-main-44:\\layout\\activity_inicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-mergeDebugResources-41:\\layout\\activity_ejercicios.xml",
+        "source": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-main-44:\\layout\\activity_ejercicios.xml"
+    },
+    {
+        "merged": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-mergeDebugResources-41:\\layout\\activity_mostrar.xml",
+        "source": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-main-44:\\layout\\activity_mostrar.xml"
+    },
+    {
+        "merged": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-mergeDebugResources-41:\\layout\\activity_registro.xml",
+        "source": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-main-44:\\layout\\activity_registro.xml"
+    },
+    {
+        "merged": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-mergeDebugResources-41:\\layout\\activity_nueva_rutina.xml",
+        "source": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-main-44:\\layout\\activity_nueva_rutina.xml"
+    },
+    {
+        "merged": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-mergeDebugResources-41:\\layout\\ejercicios_adapter.xml",
+        "source": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-main-44:\\layout\\ejercicios_adapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-mergeDebugResources-41:\\layout\\activity_welcome.xml",
+        "source": "C:\\Users\\robea\\.gradle\\daemon\\8.4\\com.example.helpgym.app-main-44:\\layout\\activity_welcome.xml"
+    }
+]

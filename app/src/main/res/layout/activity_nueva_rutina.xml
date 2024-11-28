@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".NuevaRutina">
+
+    <EditText
+        android:id="@+id/editTextworkoutName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nombre del entrenamiento"
+        android:layout_margin="16dp"/>
+
+    <EditText
+        android:id="@+id/editTextExercise"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Ejercicio"
+        android:layout_below="@id/editTextworkoutName"
+        android:layout_margin="16dp"/>
+
+    <EditText
+        android:id="@+id/editTextSets"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Series"
+        android:layout_below="@id/editTextExercise"
+        android:layout_margin="16dp"/>
+
+    <EditText
+        android:id="@+id/editTextReps"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Repeticiones"
+        android:layout_below="@id/editTextSets"
+        android:layout_margin="16dp"/>
+
+    <!-- ListView para mostrar los ejercicios añadidos -->
+
+    <Button
+        android:id="@+id/buttonAddExercise"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/editTextReps"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="21dp"
+        android:text="AÑADIR EJERCICIO" />
+
+    <Button
+        android:id="@+id/confirmar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/editTextReps"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="21dp"
+        android:layout_marginEnd="35dp"
+        android:layout_toEndOf="@+id/buttonAddExercise"
+        android:text="CONFIRMAR" />
+
+    <ListView
+        android:id="@+id/listViewExercises"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/buttonAddExercise"
+        android:layout_marginTop="16dp"/>
+</RelativeLayout>
